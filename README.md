@@ -1,0 +1,2 @@
+# ART
+--- permalink: /index.html ---
